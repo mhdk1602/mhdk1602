@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Engineer who strongly believes in grow by growing others as that's the principle I've attributed my success to.<br>Looking to collaborate on training repos.<br>I'm currently learning Julia.<br>Ask me about how to excel as an unconventional data engineer.<br>Fun fact - Love Dogs, food and cars in that order.
+A Senior Engineer who strongly believes in the principle of grow by growing others, something that I've attributed my success to.<br>Looking to collaborate on training repos.<br>I'm currently learning Julia.<br>Ask me about how to excel as an unconventional data engineer.<br>Fun fact - Love Dogs, food and cars in that order.
 
 
 ## 🌐 Socials:
