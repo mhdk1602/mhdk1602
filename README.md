@@ -1,21 +1,104 @@
-# 💫 About Me:
-A Senior Engineer who strongly believes in the principle of grow by growing others, something that I've attributed my success to.<br>Looking to collaborate on training repos.<br>I'm currently learning Julia.<br>Ask me about how to excel as an unconventional data engineer.<br>Fun fact - Love Dogs, food and cars in that order.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=230&section=header&text=Dinesh%20Hari&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Lead%20AI%20Engineer%20%E2%80%A2%20PhD%20Candidate%20%E2%80%A2%20BCG%20X&descAlignY=52&descSize=18&descColor=c9d1d9" width="100%"/>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Production+ML+systems+%26+data+platforms;Multi-agent+AI+architectures;Full-stack+engineering+%7C+Python+to+React;1%2C100%2B+commits+on+enterprise+data+platforms;90%2B+internal+engineering+docs+written&font=JetBrains+Mono&center=true&width=550&height=45&color=e94560&vCenter=true&pause=1000&size=20&duration=3000" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mhdk1602) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-m-039533189/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mhdk1602) 
-
-# 💻 Tech Stack:
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mhdk1602&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhdk1602&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdk1602&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinesh-m-039533189/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mhdk1602&color=e94560&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mhdk1602&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I build production ML systems, data platforms, and full-stack AI applications at BCG X. Most of my work ships through private enterprise repos, but the public ones here show how I think about engineering: structured curricula, multi-agent architectures, and entity resolution on messy real-world data.
+
+I lead a team of 15 engineers building pricing recommender systems, RAG pipelines, and large-scale data platforms on Snowflake, Azure, and AWS. Previously built data platforms at Vanguard across 6+ years of cloud consulting. PhD research focuses on data governance and institutional theory.
+
+I write a lot of documentation (200K+ words across projects) because the gap between "it works" and "someone else can maintain it" is where most engineering orgs fail.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,flask,graphql,postgres,dynamodb,redis&perline=10&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,github,githubactions,pytorch,tensorflow,elasticsearch&perline=10&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=000" />
+  <img src="https://img.shields.io/badge/Octopus_Deploy-2F93E0?style=flat-square&logo=octopusdeploy&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+<a href="https://github.com/mhdk1602/python_training">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhdk1602&repo=python_training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" width="49%" />
+</a>
+<a href="https://github.com/mhdk1602/galatiq-invoice-processing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhdk1602&repo=galatiq-invoice-processing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" width="49%" />
+</a>
+
+<a href="https://github.com/mhdk1602/Matlab---fractal-modelling">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhdk1602&repo=Matlab---fractal-modelling&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" width="49%" />
+</a>
+
+<details>
+<summary><b>What I build at work (private repos)</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **CV Pricing Recommender** | ML pricing recommendations served to consultants in production via ClientView | scikit-learn, FastAPI, React, Azure, Snowflake |
+| **Enterprise Data Platform** | Founding architect. 1,100+ commits. 90+ internal docs. | dbt, Snowflake, Python, Kubernetes, Vault |
+| **DE Training Curriculum** | 50+ notebooks teaching data engineering through GenAI | Jupyter, Flask, PostgreSQL, Hasura, Next.js, Claude |
+| **Multi-Agent Invoice Processing** | 4-stage LLM pipeline with rule-based fallback | FastAPI, xAI Grok, SQLite, Pydantic |
+| **Healthcare Entity Resolution** | Fuzzy + embedding-based facility matching across databases | BERT, RoBERTa, GPT-3, spaCy, Annoy |
+
+</details>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdk1602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdk1602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mhdk1602&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhdk1602&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e9456030)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p align="center">
+  <i>Most of my commits live in enterprise repos. The stats above reflect personal/open-source work only.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
