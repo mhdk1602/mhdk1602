@@ -55,16 +55,11 @@ I write a lot of documentation (200K+ words across projects) because the gap bet
 
 ## Featured Projects
 
-<a href="https://github.com/mhdk1602/python_training">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhdk1602&repo=python_training&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" width="49%" />
-</a>
-<a href="https://github.com/mhdk1602/galatiq-invoice-processing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhdk1602&repo=galatiq-invoice-processing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" width="49%" />
-</a>
-
-<a href="https://github.com/mhdk1602/Matlab---fractal-modelling">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhdk1602&repo=Matlab---fractal-modelling&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" width="49%" />
-</a>
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [`python_training`](https://github.com/mhdk1602/python_training) | DE training curriculum + full-stack stock trading platform with AI chatbot | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![PostgreSQL](https://img.shields.io/badge/-Postgres-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| [`galatiq-invoice-processing`](https://github.com/mhdk1602/galatiq-invoice-processing) | Multi-agent invoice pipeline — extraction, validation, approval, payment | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi) ![SQLite](https://img.shields.io/badge/-SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) |
+| [`Matlab---fractal-modelling`](https://github.com/mhdk1602/Matlab---fractal-modelling) | Fractal price-volume correlation via Hurst exponents and MFDFA | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 
 <details>
 <summary><b>What I build at work (private repos)</b></summary>
@@ -85,15 +80,8 @@ I write a lot of documentation (200K+ words across projects) because the gap bet
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdk1602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdk1602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=mhdk1602&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
 </p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhdk1602&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e9456030)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
