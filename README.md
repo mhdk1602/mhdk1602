@@ -19,7 +19,7 @@
 
 I build production ML systems, data platforms, and full-stack AI applications at BCG X. Most of my work ships through private enterprise repos, but the public ones here show how I think about engineering: structured curricula, multi-agent architectures, and entity resolution on messy real-world data.
 
-I lead a team of 15 engineers building pricing recommender systems, RAG pipelines, and large-scale data platforms on Snowflake, Azure, and AWS. Previously built data platforms at Vanguard across 6+ years of cloud consulting. PhD research focuses on data governance and institutional theory.
+I lead a team of engineers building pricing recommender systems, RAG pipelines, and large-scale data platforms on Snowflake, Azure, and AWS. Previously built data platforms at Vanguard across 6+ years of cloud consulting. PhD research focuses on data governance and institutional theory.
 
 I write a lot of documentation (200K+ words across projects) because the gap between "it works" and "someone else can maintain it" is where most engineering orgs fail.
 
