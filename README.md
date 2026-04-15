@@ -80,7 +80,7 @@ I write a lot of documentation (200K+ words across projects) because the gap bet
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhdk1602&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+  <img src="https://streak-stats.demolab.com/?user=mhdk1602&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&cache_seconds=86400" />
 </p>
 
 ---
