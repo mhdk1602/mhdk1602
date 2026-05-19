@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Dinesh Hari — Lead AI Engineer, PhD Candidate, BCG X" width="100%">
+  <img src="assets/profile-hero-v2.svg" alt="Dinesh Hari — Lead AI Engineer, PhD Candidate, BCG X" width="100%">
 </p>
 
 <p align="center">
