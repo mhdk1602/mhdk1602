@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Production ML systems</strong> · <strong>data platforms</strong> · <strong>multi-agent AI</strong> · <strong>full-stack engineering</strong> · <strong>governance research</strong>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Production+ML+systems+%26+data+platforms;Multi-agent+AI+architectures;Full-stack+engineering+%7C+Python+to+React;Fractal+%26+governance+research+%E2%80%94+peer-archived;90%2B+internal+docs+%E2%80%94+200K%2B+words+shipped&font=JetBrains+Mono&center=true&width=620&height=42&color=e94560&vCenter=true&pause=1100&size=18&duration=3200" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ Each project below ships a paper or pre-registration archived on Zenodo with a p
 ## GitHub Signal
 
 <p align="center">
-  <img src="assets/github-signal.svg" alt="GitHub Signal: public contributions, streak, and private enterprise commit context" width="100%">
+  <img src="https://streak-stats.demolab.com/?user=mhdk1602&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&cache_seconds=86400" />
 </p>
 
 <p align="center">

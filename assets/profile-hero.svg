@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
   <title id="title">Dinesh Hari — Lead AI Engineer, PhD Candidate, BCG X</title>
-  <desc id="desc">Dark technical banner with title, role, and visual motif blending a dependency graph, fractal sweep, and metric cards.</desc>
+  <desc id="desc">Dark technical banner: title, role, three metric cards, and a shipping-surfaces panel showing the engineering and research halves.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070b14"/>
@@ -17,7 +17,7 @@
       <stop offset="1" stop-color="#0a1320" stop-opacity="0.98"/>
     </linearGradient>
     <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#e94560" stop-opacity="0.32"/>
+      <stop offset="0" stop-color="#e94560" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#e94560" stop-opacity="0"/>
     </radialGradient>
     <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
@@ -32,21 +32,23 @@
     </pattern>
     <style>
       .eyebrow { font: 700 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #8aa3bb; letter-spacing: 0.22em; }
-      .name { font: 800 72px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif; fill: #f4f9ff; letter-spacing: -0.01em; }
+      .name { font: 800 68px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif; fill: #f4f9ff; letter-spacing: -0.01em; }
       .role { font: 500 22px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #c7d3e1; }
       .tagline { font: 500 17px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #93a7bc; }
       .mono { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #8ff2df; letter-spacing: 0.08em; }
       .micro { font: 700 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #93a7bc; letter-spacing: 0.18em; }
       .metric { font: 800 26px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #ffffff; }
-      .unit { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8ff2df; letter-spacing: 0.08em; }
+      .unit { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8ff2df; letter-spacing: 0.06em; }
+      .chip { font: 700 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #dce8f4; letter-spacing: 0.10em; }
+      .chipUnit { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #93a7bc; letter-spacing: 0.04em; }
       .line { stroke: #2c4760; stroke-width: 1.4; fill: none; }
       .hot { stroke: url(#brand); stroke-width: 2.6; fill: none; stroke-linecap: round; }
     </style>
   </defs>
 
-  <rect width="1280" height="360" fill="url(#bg)"/>
-  <rect width="1280" height="360" fill="url(#grid)" opacity="0.85"/>
-  <ellipse cx="1100" cy="100" rx="380" ry="220" fill="url(#halo)"/>
+  <rect width="1280" height="460" fill="url(#bg)"/>
+  <rect width="1280" height="460" fill="url(#grid)" opacity="0.85"/>
+  <ellipse cx="1100" cy="120" rx="380" ry="240" fill="url(#halo)"/>
 
   <g opacity="0.55">
     <circle cx="40" cy="60" r="1.2" fill="#55d6be"/>
@@ -55,45 +57,45 @@
     <circle cx="354" cy="42" r="1.2" fill="#55d6be"/>
     <circle cx="540" cy="56" r="1.2" fill="#8fb9ff"/>
     <circle cx="690" cy="38" r="1.2" fill="#f5b84b"/>
-    <circle cx="44" cy="318" r="1.2" fill="#e94560"/>
-    <circle cx="190" cy="338" r="1.2" fill="#55d6be"/>
-    <circle cx="378" cy="324" r="1.2" fill="#8fb9ff"/>
+    <circle cx="44" cy="418" r="1.2" fill="#e94560"/>
+    <circle cx="190" cy="438" r="1.2" fill="#55d6be"/>
+    <circle cx="378" cy="424" r="1.2" fill="#8fb9ff"/>
+    <circle cx="1120" cy="408" r="1.2" fill="#f5b84b"/>
   </g>
 
   <g transform="translate(72 60)">
-    <text class="eyebrow" textLength="430" lengthAdjust="spacingAndGlyphs">PRODUCTION ML / DATA PLATFORMS / GOVERNANCE</text>
-    <text class="name" y="78">Dinesh Hari</text>
-    <text class="role" y="118">Lead AI Engineer, BCG X &#8226; PhD Candidate &#8226; mhdk1602</text>
-    <text class="tagline" y="156" textLength="640" lengthAdjust="spacingAndGlyphs">I ship production AI systems by day. I do fractal &amp; governance</text>
-    <text class="tagline" y="180" textLength="630" lengthAdjust="spacingAndGlyphs">research by night. Both halves of the workshop are in this repo wall.</text>
+    <text class="eyebrow" x="0" y="0">PRODUCTION ML  /  DATA PLATFORMS  /  GOVERNANCE</text>
+    <text class="name" x="0" y="76">Dinesh Hari</text>
+    <text class="role" x="0" y="116">Lead AI Engineer, BCG X &#8226; PhD Candidate &#8226; mhdk1602</text>
+    <text class="tagline" x="0" y="156">Engineering by day. Research by night. Both halves live in this repo wall.</text>
   </g>
 
-  <g transform="translate(72 232)">
+  <g transform="translate(72 270)">
     <g>
-      <rect width="200" height="92" rx="14" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
+      <rect width="208" height="92" rx="14" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
       <text class="micro" x="20" y="28">PRIVATE COMMITS</text>
       <text class="metric" x="20" y="62">1,100+</text>
       <text class="unit" x="20" y="80">on enterprise platforms</text>
     </g>
-    <g transform="translate(218 0)">
-      <rect width="200" height="92" rx="14" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
+    <g transform="translate(224 0)">
+      <rect width="208" height="92" rx="14" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
       <text class="micro" x="20" y="28">RESEARCH DOIs</text>
       <text class="metric" x="20" y="62">4 published</text>
       <text class="unit" x="20" y="80">Zenodo, peer-archived</text>
     </g>
-    <g transform="translate(436 0)">
-      <rect width="200" height="92" rx="14" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
+    <g transform="translate(448 0)">
+      <rect width="208" height="92" rx="14" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
       <text class="micro" x="20" y="28">INTERNAL DOCS</text>
       <text class="metric" x="20" y="62">90+ written</text>
       <text class="unit" x="20" y="80">200K+ words shipped</text>
     </g>
   </g>
 
-  <g transform="translate(780 38)">
-    <rect width="430" height="284" rx="22" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
+  <g transform="translate(780 56)">
+    <rect width="430" height="328" rx="22" fill="url(#card)" stroke="#2c4760" filter="url(#shadow)"/>
     <text class="micro" x="26" y="38">SHIPPING SURFACES</text>
 
-    <g transform="translate(26 64)">
+    <g transform="translate(26 78)">
       <path d="M0 110 C40 84 80 132 120 96 C160 60 200 122 240 80 C272 50 304 100 376 64" class="hot" filter="url(#softGlow)"/>
       <path d="M0 168 C50 138 100 196 158 156 C216 116 264 184 318 154 C346 138 360 142 376 130" class="line" opacity="0.65"/>
       <circle cx="0" cy="110" r="6" fill="#e94560"/>
@@ -102,26 +104,26 @@
       <circle cx="376" cy="64" r="6" fill="#8fb9ff"/>
     </g>
 
-    <g transform="translate(26 212)">
+    <g transform="translate(26 256)">
       <g>
-        <rect width="118" height="44" rx="10" fill="#0a1320" stroke="#314c64"/>
-        <text class="mono" x="14" y="20">PYTHON</text>
-        <text class="unit" x="14" y="36">FastAPI / dbt</text>
+        <rect width="118" height="52" rx="11" fill="#0a1320" stroke="#314c64"/>
+        <text class="chip" x="14" y="22">PYTHON</text>
+        <text class="chipUnit" x="14" y="40">FastAPI / dbt</text>
       </g>
       <g transform="translate(130 0)">
-        <rect width="118" height="44" rx="10" fill="#0a1320" stroke="#314c64"/>
-        <text class="mono" x="14" y="20">TYPESCRIPT</text>
-        <text class="unit" x="14" y="36">React / Next.js</text>
+        <rect width="118" height="52" rx="11" fill="#0a1320" stroke="#314c64"/>
+        <text class="chip" x="14" y="22">TYPESCRIPT</text>
+        <text class="chipUnit" x="14" y="40">React / Next.js</text>
       </g>
       <g transform="translate(260 0)">
-        <rect width="118" height="44" rx="10" fill="#0a1320" stroke="#314c64"/>
-        <text class="mono" x="14" y="20">CLOUD</text>
-        <text class="unit" x="14" y="36">Azure / AWS / GCP</text>
+        <rect width="118" height="52" rx="11" fill="#0a1320" stroke="#314c64"/>
+        <text class="chip" x="14" y="22">CLOUD</text>
+        <text class="chipUnit" x="14" y="40">Azure / AWS / GCP</text>
       </g>
     </g>
   </g>
 
-  <g transform="translate(72 340)">
+  <g transform="translate(72 420)">
     <text class="mono" x="0" y="0">&#10095; SYSTEM ONLINE &#8212; ENGINEERING + RESEARCH BUILD CHANNEL OPEN</text>
   </g>
 </svg>
