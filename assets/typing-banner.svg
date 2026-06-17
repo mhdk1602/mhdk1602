@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 42" width="620" height="42" role="img" aria-label="Production ML systems and data platforms. Multi-agent AI architectures. Fractal and governance research, peer-archived. Seven interactive labs live on GitHub Pages. 90+ internal docs, 200K+ words shipped.">
+  <style>
+    text { font-family: 'Courier New', monospace; font-size: 18px; font-weight: 600; fill: #a78bfa; }
+  </style>
+  <g text-anchor="middle">
+    <text x="310" y="27" opacity="1">Production ML systems &amp; data platforms
+      <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.2;1" values="1;0;0"/>
+    </text>
+    <text x="310" y="27" opacity="0">Multi-agent AI architectures
+      <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.2;0.4;1" values="0;1;0;0"/>
+    </text>
+    <text x="310" y="27" opacity="0">Fractal &amp; governance research, peer-archived
+      <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.4;0.6;1" values="0;1;0;0"/>
+    </text>
+    <text x="310" y="27" opacity="0">Seven interactive labs live on GitHub Pages
+      <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.6;0.8;1" values="0;1;0;0"/>
+    </text>
+    <text x="310" y="27" opacity="0">90+ internal docs, 200K+ words shipped
+      <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.8;1" values="0;1;0"/>
+    </text>
+  </g>
+</svg>

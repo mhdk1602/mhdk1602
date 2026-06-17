@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Production+ML+systems+%26+data+platforms;Multi-agent+AI+architectures;Fractal+%26+governance+research%2C+peer-archived;Seven+interactive+labs+live+on+GitHub+Pages;90%2B+internal+docs%2C+200K%2B+words+shipped&font=JetBrains+Mono&center=true&width=620&height=42&color=a78bfa&vCenter=true&pause=1100&size=18&duration=3200" />
+  <img src="assets/typing-banner.svg" alt="Production ML systems and data platforms · Multi-agent AI architectures · Fractal and governance research, peer-archived · Seven interactive labs live on GitHub Pages · 90+ internal docs, 200K+ words shipped" width="620">
 </p>
 
 <p align="center">
@@ -116,11 +116,11 @@ Each project below ships a paper or pre-registration archived on Zenodo with a p
 ## GitHub Signal
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhdk1602&theme=tokyonight&hide_border=true&background=04060d&ring=a78bfa&fire=f471b5&currStreakLabel=a78bfa&cache_seconds=86400" />
+  <img src="assets/github-signal.svg" alt="GitHub signal: most commits ship through private enterprise repos. The public footprint is a deliberate sample: 12 public repos, 4 archived papers with DOIs, and 7 live studios." width="100%">
 </p>
 
 <p align="center">
-  <i>Most of my commits live in enterprise repos. Public stats above reflect personal and open-source work only.</i>
+  <i>Most of my commits live in private enterprise repos. What's public is a deliberate sample, not the whole graph.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04060d,50:312a6e,100:6d4fe0&height=120&section=footer" width="100%"/>
+<img src="assets/footer-wave.svg" alt="" width="100%">

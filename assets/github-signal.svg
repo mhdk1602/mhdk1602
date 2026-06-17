@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" width="1280" height="200" role="img" aria-label="GitHub signal: most commits ship through private enterprise repos. The public footprint is a deliberate sample: 12 public repos, 4 archived papers with DOIs, and 7 live studios.">
+  <defs>
+    <linearGradient id="brand" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#62e6ff"/>
+      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f471b5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="20%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#97a3c4" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="200" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="200" fill="#0a0f1e"/>
+    <rect width="1280" height="200" fill="url(#grid)"/>
+    <rect width="1280" height="200" fill="url(#glow)"/>
+
+    <text x="64" y="52" font-family="'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="5" fill="#62e6ff">GITHUB SIGNAL</text>
+
+    <!-- tip-of-the-iceberg bar: the bright public tip, the dim private remainder -->
+    <text x="64" y="82" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#62e6ff">public · open source</text>
+    <text x="1216" y="82" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#97a3c4">private enterprise · 1,100+ commits</text>
+    <rect x="64" y="92" width="1152" height="22" rx="11" fill="#1b2140"/>
+    <rect x="64" y="92" width="172" height="22" rx="11" fill="url(#brand)"/>
+    <circle cx="236" cy="103" r="6" fill="#ffc46b"/>
+
+    <!-- verifiable public tiles -->
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">
+      <rect x="64" y="142" width="156" height="38" rx="19" fill="none" stroke="#62e6ff" stroke-opacity="0.45"/>
+      <text x="142" y="166" text-anchor="middle" fill="#62e6ff">12 public repos</text>
+      <rect x="232" y="142" width="244" height="38" rx="19" fill="none" stroke="#a78bfa" stroke-opacity="0.5"/>
+      <text x="354" y="166" text-anchor="middle" fill="#a78bfa">4 archived papers · DOIs</text>
+      <rect x="488" y="142" width="150" height="38" rx="19" fill="none" stroke="#f471b5" stroke-opacity="0.45"/>
+      <text x="563" y="166" text-anchor="middle" fill="#f471b5">7 live studios</text>
+      <text x="1216" y="167" text-anchor="end" fill="#5b6886" font-size="12.5">the public graph is the tip, not the iceberg</text>
+    </g>
+
+    <rect x="1" y="1" width="1278" height="198" rx="21" fill="none" stroke="#97a3c4" stroke-opacity="0.16"/>
+  </g>
+</svg>
